@@ -152,7 +152,6 @@ anime-explorer/
 ```
 
 ## Demo
-* https://drive.google.com/file/d/1XgOHnwJaRdriiMMnJF4KdSVSKaWLVzUx/view?usp=sharing
-
+* https://www.youtube.com/shorts/sCKKpsk9mEs
 ## APK
 * https://drive.google.com/file/d/1fItN-APc7HgqARncURrbbyTMiP8G5HuJ/view?usp=sharing
